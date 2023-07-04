@@ -1,0 +1,13 @@
+balance
+makepayment
+requestpayment
+viewrequests
+payrequest
+obtainQRcode
+confirmQRcode
+newgroup
+addu
+groups
+dividepayment
+statuspayments
+history
